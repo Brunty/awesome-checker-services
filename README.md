@@ -1,27 +1,26 @@
 # Checker Services
 List of links to the various checkers out there on the web for sites, domains, security etc.
 
-## DNS
+## DNS 🌎
 | URL | Description | ££ |
 | --- | ----------- | -- |
 | https://www.digwebinterface.com/ | Extensive web interface to dig for doing online DNS / nameserver query. | Free and donations welcome |
 | http://dnscheck.pingdom.com/ | Enter a domain name to check if its DNS servers are configured correctly | Free |
 | https://dnsspy.io/ | Monitor, validate and verify your DNS configurations | Free and paid plans |
 
-## Mail Configuration
+## Mail Configuration ✉️
 | URL | Description | ££ |
 | --- | ----------- | -- |
 | https://www.mail-tester.com/ | Test the Spammyness of your Emails | Free |
 | https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email blacklists. | Free |
 
-## Mobile Friendliness
+## Mobile Friendliness 📱
 | URL | Description | ££ |
 | --- | ----------- | -- |
 | https://developers.google.com/web/tools/lighthouse/ | Useful for testing PWA's does mobile friendliness etc but not exclusively mobile | Free |
 | https://search.google.com/search-console/mobile-friendly | Test how easily a visitor can use your page on a mobile device. Just enter a page URL to see how your page scores. | Free |
 
-
-## Security
+## Security 🔒
 | URL | Description | ££ |
 | --- | ----------- | -- |
 | https://hstspreload.org/ | | Free |
@@ -31,18 +30,18 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://www.ssllabs.com/ssltest/ | This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet | Free |
 | https://tls.imirhil.fr/ | | Free |
 
-## SEO
+## SEO 📈
 | URL | Description | ££ |
 | --- | ----------- | -- |
 | https://insites.com/ | Test your websites for everything. Check spelling, broken links, SEO, accessibility and more | Paid |
 | http://nibbler.silktide.com/ | Nibbler is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology. | Free and paid plans |
 
-## Technology Used
+## Technology Used 🖥
 | URL | Description | ££ |
 | --- | ----------- | -- |
 | https://builtwith.com/ | Find out what websites are Built With | Free and paid plans |
 
-## Website performance
+## Website performance 🚀
 | URL | Description | ££ |
 | --- | ----------- | -- |
 | https://developers.google.com/speed/pagespeed/insights/ | PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster. | Free |
