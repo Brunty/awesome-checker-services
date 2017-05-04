@@ -11,6 +11,7 @@ Please ensure you list the free / paid status of the service as one of the follo
 * Free
 * Paid
 * Free and paid plans
+* Free and donations welcome
 
 ### Contributor Code of Conduct
 
