@@ -35,6 +35,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | ------------- | ------------- |
 | https://developers.google.com/speed/pagespeed/insights/ | PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster. | 
 | https://tools.pingdom.com/ | Enter a URL to test the load time of that page, analyze it and find bottlenecks. |
+| https://gtmetrix.com/ | GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. |
 
 ## SEO
 | URL  | Description | ££ |
