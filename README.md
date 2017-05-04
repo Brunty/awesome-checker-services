@@ -4,6 +4,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 ## DNS
 | URL | Description | ££ |
 | --- | ----------- | -- |
+| https://www.digwebinterface.com/ | Extensive web interface to dig for doing online DNS / nameserver query. |
 | http://dnscheck.pingdom.com/ | Enter a domain name to check if its DNS servers are configured correctly | Free |
 | https://dnsspy.io/ | Monitor, validate and verify your DNS configurations | Free and paid plans |
 
@@ -18,6 +19,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | --- | ----------- |
 | https://developers.google.com/web/tools/lighthouse/ | Useful for testing PWA's does mobile friendliness etc but not exclusively mobile|
 | https://search.google.com/search-console/mobile-friendly | Test how easily a visitor can use your page on a mobile device. Just enter a page URL to see how your page scores. |
+
 
 ## Security
 | URL | Description |
