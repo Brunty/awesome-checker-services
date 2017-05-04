@@ -7,6 +7,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | ------------- | ------------- |
 | https://dnsspy.io/  | Monitor, validate and verify your DNS configurations |
 | http://dnscheck.pingdom.com/ | Enter a domain name to check if its DNS servers are configured correctly |
+| https://www.digwebinterface.com/ | Extensive web interface to dig for doing online DNS / nameserver query. |
 
 ## Security
 | URL  | Description |
