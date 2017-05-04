@@ -39,6 +39,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL  | Description |
 | ------------- | ------------- |
  | http://nibbler.silktide.com/ | Nibbler is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology. |
+ | https://insites.com/ | Test your websites for everything. Check spelling, broken links, SEO, accessibility and more |
  
  ## Technology Used
 | URL  | Description |
