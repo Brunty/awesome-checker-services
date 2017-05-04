@@ -19,9 +19,10 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://hstspreload.org/ | | 
 
 ## Mail Configuration
-| URL  | Description |
-| ------------- | ------------- |
-| https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email blacklists. |
+| URL  | Description | ££ |
+| ------------- | ------------- | --- |
+| https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email blacklists. | Free |
+| https://www.mail-tester.com/ | Test the Spammyness of your Emails | Free |
 
 ## Mobile Friendly-ness
 | URL  | Description |
