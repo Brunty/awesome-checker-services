@@ -27,6 +27,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL  | Description |
 | ------------- | ------------- |
 | https://search.google.com/search-console/mobile-friendly | Test how easily a visitor can use your page on a mobile device. Just enter a page URL to see how your page scores. |
+|https://developers.google.com/web/tools/lighthouse/ | Useful for testing PWA's does mobile friendlyness etc but not exclusively mobile|
 
 ## Website performance
 | URL  | Description |
