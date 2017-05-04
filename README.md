@@ -36,10 +36,10 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://tools.pingdom.com/ | Enter a URL to test the load time of that page, analyze it and find bottlenecks. |
 
 ## SEO
-| URL  | Description |
+| URL  | Description | $$ |
 | ------------- | ------------- |
- | http://nibbler.silktide.com/ | Nibbler is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology. |
- | https://insites.com/ | Test your websites for everything. Check spelling, broken links, SEO, accessibility and more |
+ | http://nibbler.silktide.com/ | Nibbler is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology. | Free with paid version available | 
+ | https://insites.com/ | Test your websites for everything. Check spelling, broken links, SEO, accessibility and more | Paid |
  
  ## Technology Used
 | URL  | Description |
