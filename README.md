@@ -15,10 +15,10 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email blacklists. | Free |
 
 ## Mobile Friendliness
-| URL | Description |
-| --- | ----------- |
-| https://developers.google.com/web/tools/lighthouse/ | Useful for testing PWA's does mobile friendliness etc but not exclusively mobile|
-| https://search.google.com/search-console/mobile-friendly | Test how easily a visitor can use your page on a mobile device. Just enter a page URL to see how your page scores. |
+| URL | Description | ££ |
+| --- | ----------- | -- |
+| https://developers.google.com/web/tools/lighthouse/ | Useful for testing PWA's does mobile friendliness etc but not exclusively mobile | Free |
+| https://search.google.com/search-console/mobile-friendly | Test how easily a visitor can use your page on a mobile device. Just enter a page URL to see how your page scores. | Free |
 
 
 ## Security
