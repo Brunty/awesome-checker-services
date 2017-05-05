@@ -1,7 +1,12 @@
 # Checker Services ✅
 List of links to the various checkers out there on the web for sites, domains, security etc.
 
-## DNS 🌎
+## Browser Testing 🌎
+| URL | Description | ££ |
+| --- | ----------- | -- |
+| https://www.browserstack.com/ | Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. | Paid |
+
+## DNS 🌐
 | URL | Description | ££ |
 | --- | ----------- | -- |
 | https://www.digwebinterface.com/ | Extensive web interface to dig for doing online DNS / nameserver query. | Free and donations welcome |
