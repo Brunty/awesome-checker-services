@@ -9,7 +9,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 ## DNS 🌐
 | URL | Description | ££ |
 | --- | ----------- | -- |
-| https://www.digwebinterface.com/ | Extensive web interface to dig for doing online DNS / nameserver query. | Free and donations welcome |i
+| https://www.digwebinterface.com/ | Extensive web interface to dig for doing online DNS / nameserver query. | Free and donations welcome |
 | http://dnscheck.pingdom.com/ | Enter a domain name to check if its DNS servers are configured correctly | Free |
 | https://dnsspy.io/ | Monitor, validate and verify your DNS configurations | Free and paid plans |
 | https://dnswatch.info/ | DNS Lookups & Performance Monitoring | Free |
