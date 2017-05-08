@@ -9,9 +9,11 @@ List of links to the various checkers out there on the web for sites, domains, s
 ## DNS 🌐
 | URL | Description | ££ |
 | --- | ----------- | -- |
-| https://www.digwebinterface.com/ | Extensive web interface to dig for doing online DNS / nameserver query. | Free and donations welcome |
+| https://www.digwebinterface.com/ | Extensive web interface to dig for doing online DNS / nameserver query. | Free and donations welcome |i
 | http://dnscheck.pingdom.com/ | Enter a domain name to check if its DNS servers are configured correctly | Free |
 | https://dnsspy.io/ | Monitor, validate and verify your DNS configurations | Free and paid plans |
+| https://dnswatch.info/ | DNS Lookups & Performance Monitoring | Free |
+| https://www.whatsmydns.net/ | Global DNS propagation checker | Free |
 
 ## Load Testing 🔥
 | URL | Description | ££ |
@@ -58,6 +60,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://developers.google.com/speed/pagespeed/insights/ | PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster. | Free |
 | https://gtmetrix.com/ | GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. | Free and paid plans |
 | https://tools.pingdom.com/ | Enter a URL to test the load time of that page, analyze it and find bottlenecks. | Free and paid plans |
+| http://yellowlab.tools/ | Online test to help speeding up heavy web pages | Free |
 
 # Contributing
 
