@@ -49,6 +49,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://insites.com/ | Test your websites for everything. Check spelling, broken links, SEO, accessibility and more | Paid |
 | http://nibbler.silktide.com/ | Nibbler is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology. | Free and paid plans |
 | https://pro.letsvalidate.com | LetsValidate is a free tool to analyze websites to find weaknesses related to competition and make a suggestions to improve your website rankings. It also has a module for analysis of technologies used on the website. | Free |
+| https://richpreview.com/ | Preview your website for chat apps and social networks | Free |
 
 ## Technology Used 🖥
 | URL | Description | ££ |
