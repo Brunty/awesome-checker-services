@@ -19,6 +19,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | ££ |
 | --- | ----------- | -- |
 | http://loader.io | Loader.io is a FREE load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections. | Free and paid plans |
+| https://loadimpact.com/ | Load test your website, app or API instantly with up to 1.2 million concurrent users. Get unlimited tests with a free trial. | Free and paid plans |
 
 ## Mail Configuration ✉️
 | URL | Description | ££ |
