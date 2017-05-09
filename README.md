@@ -64,6 +64,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://checkgzipcompression.com/ | Check if GZIP compression on your web server is enabled | Free |
 | https://tools.pingdom.com/ | Enter a URL to test the load time of that page, analyze it and find bottlenecks. | Free and paid plans |
 | http://yellowlab.tools/ | Online test to help speeding up heavy web pages | Free |
+| https://pageweight.imgix.com/ | See how images affect your page speed | Free |
 
 # Contributing
 
