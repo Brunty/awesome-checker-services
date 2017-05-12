@@ -1,6 +1,6 @@
 ### Getting started
 
-The `README` contains the full list of all checkers.
+The [README](README.md) contains the full list of all checkers.
 
 Please ensure any new sections are added alphabetically in the list.
 
