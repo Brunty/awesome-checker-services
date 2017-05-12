@@ -13,6 +13,10 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://dnsspy.io/ | Monitor, validate and verify your DNS configurations | Free and paid plans |
 | https://dnswatch.info/ | DNS Lookups & Performance Monitoring | Free |
 | http://dnscheck.pingdom.com/ | Enter a domain name to check if its DNS servers are configured correctly | Free |
+| https://www.domainiq.com/tools | DNS, IP, MX tools | Free and paid plans |
+| https://whois.domaintools.com/ | Reverse whois & IP lookup | Free and paid plans |
+| https://www.tcpiputils.com/ | Reverse/history tools for DNS, IP, MX | Free and paid plans |
+| http://www.viewdns.info/ | View DNS, IP, MX information | Free and paid plans |
 | https://www.whatsmydns.net/ | Global DNS propagation checker | Free |
 
 ## Load Testing 🔥
