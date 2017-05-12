@@ -71,6 +71,6 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 This started as a small personal project.
 
-Although this project is small, openness and inclusivity are taken seriously. To that end the a code of conduct (listed in the contributing guide) has been adopted.
+Although this project is small, openness and inclusivity are taken seriously. To that end a code of conduct (listed in the contributing guide) has been adopted.
 
 [Contributor Guide](CONTRIBUTING.md)
