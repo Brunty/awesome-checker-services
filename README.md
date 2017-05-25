@@ -4,13 +4,13 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 ## Browser Testing 🌎
 
-| URL | Description | ££ |
+| URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://www.browserstack.com/ | Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. | Paid |
 
 ## DNS 🌐
 
-| URL | Description | ££ |
+| URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://www.digwebinterface.com/ | Extensive web interface to dig for doing online DNS / nameserver query. | Free and donations welcome |
 | https://dnsspy.io/ | Monitor, validate and verify your DNS configurations | Free and paid plans |
@@ -24,28 +24,28 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 ## Load Testing 🔥
 
-| URL | Description | ££ |
+| URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://loader.io/ | Loader.io is a FREE load testing service that allows you to stress test your web-apps & APIs with thousands of concurrent connections. | Free and paid plans |
 | https://loadimpact.com/ | Load test your website, app or API instantly with up to 1.2 million concurrent users. Get unlimited tests with a free trial. | Free and paid plans |
 
 ## Mail Configuration ✉️
 
-| URL | Description | ££ |
+| URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://www.mail-tester.com/ | Test the Spammyness of your Emails | Free |
 | https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email blacklists. | Free |
 
 ## Mobile Friendliness 📱
 
-| URL | Description | ££ |
+| URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://developers.google.com/web/tools/lighthouse/ | Useful for testing PWA's does mobile friendliness etc but not exclusively mobile | Free |
 | https://search.google.com/search-console/mobile-friendly | Test how easily a visitor can use your page on a mobile device. Just enter a page URL to see how your page scores. | Free |
 
 ## Security 🔒
 
-| URL | Description | ££ |
+| URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://www.hardenize.com/ | Harden your server's security | Free |
 | https://hstspreload.org/ | | Free |
@@ -57,7 +57,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 ## SEO 📈
 
-| URL | Description | ££ |
+| URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://insites.com/ | Test your websites for everything. Check spelling, broken links, SEO, accessibility and more | Paid |
 | http://nibbler.silktide.com/ | Nibbler is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology. | Free and paid plans |
@@ -67,13 +67,13 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 ## Technology Used 🖥
 
-| URL | Description | ££ |
+| URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://builtwith.com/ | Find out what websites are Built With | Free and paid plans |
 
 ## Website performance 🚀
 
-| URL | Description | ££ |
+| URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://developers.google.com/speed/pagespeed/insights/ | PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster. | Free |
 | https://gtmetrix.com/ | GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. | Free and paid plans |
