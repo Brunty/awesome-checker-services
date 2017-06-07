@@ -2,6 +2,15 @@
 
 List of links to the various checkers out there on the web for sites, domains, security etc.
 
+## Accessibility ♿️
+
+| URL | Description | 💳 |
+| --- | ----------- | -- |
+| https://achecker.ca/checker/index.php | Checks single HTML pages for conformance with accessibility standards to ensure the content can be accessed by everyone. | Free |
+| https://tenon.io/ | Test sites for accessibility issues and offer solutions for problems found. | Free and paid plans |
+| https://www.toptal.com/designers/colorfilter | Checks pages for color accessibility. | Free |
+| http://wave.webaim.org/ | Gives a detailed report about markup and accessibility concerns including ARIA roles. Provides solutions for problems found. | Free |
+
 ## Browser Testing 🌎
 
 | URL | Description | 💳 |
@@ -70,6 +79,11 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://builtwith.com/ | Find out what websites are Built With | Free and paid plans |
+
+## Validation 👌
+| URL | Description | 💳 |
+| --- | ----------- | -- |
+| https://validator.w3.org/unicorn/ | Checks for proper HTML and CSS markup as well as broken links. | Free |
 
 ## Website performance 🚀
 
