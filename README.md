@@ -64,6 +64,17 @@ List of links to the various checkers out there on the web for sites, domains, s
 | http://www.verifyemailaddress.org | Another email address checker. | Free, paid bulk plan |
 | https://tools.verifyemailaddress.io | Test if an email address exists. Also provides an API for developers. | Free, paid API |
 
+## Mail Testing ✉️
+
+| URL | Description | 💳 |
+| --- | ----------- | -- |
+| https://www.campaignmonitor.com | Preview emails in over 25 different email clients with the inbox preview feature. | Free trial, paid plans |
+| https://www.emailonacid.com | Test emails in over 70 email clients, apps and on different platforms. | Free trial, paid plans |
+| http://www.emailreach.com | Check how the emails render in different clients and on different platforms with the EmailView and MobileView features. | Free trial, paid plans |
+| https://litmus.com/email-testing |Test the rendering of emails in over 70 email clients and devices. | Free trial, paid plans |
+| http://previewmyemail.com | Another provider to test the rendering on many email clients and devices. | Paid plans |
+| https://putsmail.com | Send and debug emails in three parts (html, plain text, Apple watch). | Free |
+
 ## Mobile Friendliness 📱
 
 | URL | Description | 💳 |
