@@ -45,6 +45,17 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://www.mail-tester.com/ | Test the Spammyness of your Emails | Free |
 | https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email blacklists. | Free |
 
+## Mail Testing ✉️
+
+| URL | Description | 💳 |
+| --- | ----------- | -- |
+| https://www.campaignmonitor.com | Preview emails in over 25 different email clients with the inbox preview feature. | Free trial, paid plans |
+| https://www.emailonacid.com | Test emails in over 70 email clients, apps and on different platforms. | Free trial, paid plans |
+| http://www.emailreach.com | Check how the emails render in different clients and on different platforms with the EmailView and MobileView features. | Free trial, paid plans |
+| https://litmus.com/email-testing |Test the rendering of emails in over 70 email clients and devices. | Free trial, paid plans |
+| http://previewmyemail.com | Another provider to test the rendering on many email clients and devices. | Paid plans |
+| https://putsmail.com | Send and debug emails in three parts (html, plain text, Apple watch). | Free |
+
 ## Mobile Friendliness 📱
 
 | URL | Description | 💳 |
