@@ -15,8 +15,8 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
-| https://www.browserstack.com/ | Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. | Paid |
 | http://browsershots.org | Test websites on many browser, platforms and devices. | Free |
+| https://www.browserstack.com/ | Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. | Paid |
 | https://saucelabs.com | Test apps and websites in many browsers. Can be integrated in CI workflows. | Free trial, free for open source projects, paid |
 | https://testingbot.com | Test apps and websites in many browsers. Can be integrated in CI workflows. | Free trial, free for open source projects, paid |
 
