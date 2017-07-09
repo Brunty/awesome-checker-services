@@ -86,14 +86,22 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
+| https://crt.sh | Get an overview and information of assigned TLS certificates. | Free |
+| https://csp-evaluator.withgoogle.com | Validate and check the CSP for weaknesses and security issues. | Free |
+| https://hackertarget.com | This service provides multiple tools to check websites for vulnerabilities. | Free and paid plans |
 | https://www.hardenize.com/ | Harden your server's security | Free |
 | https://hstspreload.org/ | | Free |
 | https://www.htbridge.com/ssl/ | Test SSL/TLS implementation of any service on any port for compliance with PCI DSS requirements, HIPAA guidance and NIST guidelines. | Free |
+| http://www.isithacked.com | Check if there are any signs that a website is hacked. | Free |
+| https://www.magereport.com | MageReport checks if a Magento instance is outdated and if all security patches are installed. | Free |
 | https://observatory.mozilla.org/ | Observatory by Mozilla is a project designed to help developers, system administrators, and security professionals configure their sites safely and securely. | Free |
+| https://report-uri.io/home/tools | Multiple useful tools for CSP, HPKP, SRI, headers and certificates. | Free |
 | https://securityheaders.io/ | Scott Helme built securityheaders.io after deploying security headers like CSP and HSTS to his own site. He wanted a quick and easy way to check if other sites were using these headers and he figured he'd turn it into a useful tool for everyone to use! | Free |
-| https://www.ssllabs.com/ssltest/ | This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet | Free |
-| https://tls.imirhil.fr/ | | Free |
 | https://security.sensiolabs.org/ | Check your PHP project for known security issues | Free |
+| https://sshcheck.com | Check the SSH configuration of servers. | Free |
+| https://ssldecoder.org | Check the TLS configuration of a server. | Free |
+| https://www.ssllabs.com/ssltest/ | This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet | Free |
+| https://tls.imirhil.fr/ | Test the strength of the available ciphers which can be used with HTTPS or SSH. | Free |
 
 ## SEO 📈
 
