@@ -22,25 +22,25 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://www.digwebinterface.com/ | Extensive web interface to dig for doing online DNS / nameserver query. | Free and donations welcome |
-| https://dnsspy.io/ | Monitor, validate and verify your DNS configurations | Free and paid plans |
-| https://dnswatch.info/ | DNS Lookups & Performance Monitoring | Free |
-| http://dnscheck.pingdom.com/ | Enter a domain name to check if its DNS servers are configured correctly | Free |
-| https://www.domainiq.com/tools | DNS, IP, MX tools | Free and paid plans |
-| https://whois.domaintools.com/ | Reverse whois & IP lookup | Free and paid plans |
-| https://www.tcpiputils.com/ | Reverse/history tools for DNS, IP, MX | Free and paid plans |
-| http://www.viewdns.info/ | View DNS, IP, MX information | Free and paid plans |
-| https://www.whatsmydns.net/ | Global DNS propagation checker | Free |
-| http://bgp.he.net | Check IPs, networks, whois, ASNs, prefixes and more | Free |
-| http://ipv6-test.com/validate.php | Test if the server supports IPv6 | Free |
-| http://www.dnsstuff.com/tools | Multiple DNS tools | Free |
-| http://www.ipvoid.com | Multiple IP address tools | Free |
-| https://dnschecker.org | Check the DNS propagation of domains | Free |
-| https://ip6.nl | Test if the server supports IPv6 | Free |
-| https://mxtoolbox.com/SuperTool.aspx | Big collection of useful network tools | Free |
-| https://tools.keycdn.com | Check for http/2 support and find network related issues | Free |
-| https://toolbox.googleapps.com/apps/dig | easy to use DNS dig tool | Free |
-| https://toolbox.googleapps.com/apps/checkmx | Check the MX records of a domain | Free |
-| https://www.ultratools.com | Big collection of useful network tools | Free |
+| https://dnsspy.io/ | Monitor, validate and verify your DNS configurations. | Free and paid plans |
+| https://dnswatch.info/ | DNS Lookups & Performance Monitoring. | Free |
+| http://dnscheck.pingdom.com/ | Enter a domain name to check if its DNS servers are configured correctly. | Free |
+| https://www.domainiq.com/tools | DNS, IP, MX tools. | Free and paid plans |
+| https://whois.domaintools.com/ | Reverse whois & IP lookup. | Free and paid plans |
+| https://www.tcpiputils.com/ | Reverse/history tools for DNS, IP, MX. | Free and paid plans |
+| http://www.viewdns.info/ | View DNS, IP, MX information. | Free and paid plans |
+| https://www.whatsmydns.net/ | Global DNS propagation checker. | Free |
+| http://bgp.he.net | Check IPs, networks, whois, ASNs, prefixes and more. | Free |
+| http://ipv6-test.com/validate.php | Test if the server supports IPv6. | Free |
+| http://www.dnsstuff.com/tools | Multiple DNS tools. | Free |
+| http://www.ipvoid.com | Multiple IP address tools. | Free |
+| https://dnschecker.org | Check the DNS propagation of domains. | Free |
+| https://ip6.nl | Test if the server supports IPv6. | Free |
+| https://mxtoolbox.com/SuperTool.aspx | Big collection of useful network tools. | Free |
+| https://tools.keycdn.com | Check for http/2 support and find network related issues. | Free |
+| https://toolbox.googleapps.com/apps/dig | Easy to use DNS dig tool. | Free |
+| https://toolbox.googleapps.com/apps/checkmx | Check the MX records of a domain. | Free |
+| https://www.ultratools.com | Big collection of useful network tools. | Free |
 
 ## Load Testing 🔥
 
