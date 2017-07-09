@@ -81,6 +81,13 @@ List of links to the various checkers out there on the web for sites, domains, s
 | --- | ----------- | -- |
 | https://builtwith.com/ | Find out what websites are Built With | Free and paid plans |
 
+## URL Analysis 🌐
+
+| URL | Description | 💳 |
+| --- | ----------- | -- |
+| http://urlquery.net | Check URLs for malicious requests. | Free |
+| https://urlscan.io | Find out what happens when a URL is accessed. | Free |
+
 ## Validation 👌
 | URL | Description | 💳 |
 | --- | ----------- | -- |
