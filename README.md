@@ -95,7 +95,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://gtmetrix.com/ | GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. | Free and paid plans |
 | http://www.monitis.com/pageload | Simple page load test from 3 contintents. | Free |
 | https://pageweight.imgix.com/ | See how images affect your page speed | Free |
-| https://testmysite.withgoogle.com | Checks websites for performance issues and provides detailed reports. | Free |
+| https://testmysite.withgoogle.com | Checks websites for performance issues and provides reports. | Free |
 | https://toolbox.googleapps.com/apps/har_analyzer | Analyse the performance with a HAR file. | Free |
 | https://tools.pingdom.com/ | Enter a URL to test the load time of that page, analyze it and find bottlenecks. | Free and paid plans |
 | https://www.uptrends.com/tools/website-speed-test | Check the performance from 30+ free and 160+ paid checkpoints. | Free, paid plans |
