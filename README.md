@@ -2,6 +2,23 @@
 
 List of links to the various checkers out there on the web for sites, domains, security etc.
 
+## Table of Contents 📖
+
+* [Accessibility](#accessibility-️) ♿️
+* [Browser Testing](#browser-testing-) 🌎
+* [DNS](#dns-) 🌐
+* [Load Testing](#load-testing-) 🔥
+* [Mail Configuration](#mail-configuration-️) ✉️
+* [Mail Testing](#mail-testing-️) ✉️
+* [Mobile Friendliness](#mobile-friendliness-) 📱
+* [Security](#security-) 🔒
+* [SEO](#seo-) 📈
+* [Technology Used](#technology-used-) 🖥
+* [URL Analysis](#url-analysis-) 🌐
+* [Validation](#validation-) 👌
+* [Website Performance](#website-performance-) 🚀
+* [Contributing](#contributing)
+
 ## Accessibility ♿️
 
 | URL | Description | 💳 |
