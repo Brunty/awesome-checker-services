@@ -108,8 +108,8 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://hackertarget.com | This service provides multiple tools to check websites for vulnerabilities. | Free and paid plans |
 | https://www.hardenize.com/ | Harden your server's security | Free |
 | https://hstspreload.org/ | | Free |
-| https://httpschecker.net/ | Track down HTTPS mixed content issues. | Free and paid plans |
 | https://www.htbridge.com/ssl/ | Test SSL/TLS implementation of any service on any port for compliance with PCI DSS requirements, HIPAA guidance and NIST guidelines. | Free |
+| https://httpschecker.net/ | Track down HTTPS mixed content issues. | Free and paid plans |
 | http://www.isithacked.com | Check if there are any signs that a website is hacked. | Free |
 | https://www.magereport.com | MageReport checks if a Magento instance is outdated and if all security patches are installed. | Free |
 | https://observatory.mozilla.org/ | Observatory by Mozilla is a project designed to help developers, system administrators, and security professionals configure their sites safely and securely. | Free |
