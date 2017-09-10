@@ -130,6 +130,8 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://pro.letsvalidate.com/ | LetsValidate is a free tool to analyze websites to find weaknesses related to competition and make a suggestions to improve your website rankings. It also has a module for analysis of technologies used on the website. | Free |
 | https://richpreview.com/ | Preview your website for chat apps and social networks | Free |
 | https://search.google.com/structured-data/testing-tool/u/0/ | Evaluate your structed data (rich snippets) markup for errors or warnings | Free |
+| https://seomator.com | SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips. | Paid |
+
 
 ## Technology Used 🖥
 
