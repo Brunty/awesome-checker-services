@@ -5,6 +5,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 ## Table of Contents 📖
 
 * [Accessibility](#accessibility-️) ♿️
+* [Assumptions](#assumptions-)
 * [Browser Testing](#browser-testing-) 🌎
 * [DNS](#dns-) 🌐
 * [Load Testing](#load-testing-) 🔥
@@ -27,6 +28,15 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://tenon.io/ | Test sites for accessibility issues and offer solutions for problems found. | Free and paid plans |
 | https://www.toptal.com/designers/colorfilter | Checks pages for color accessibility. | Free |
 | http://wave.webaim.org/ | Gives a detailed report about markup and accessibility concerns including ARIA roles. Provides solutions for problems found. | Free |
+
+
+## Assumptions
+
+
+| URL | Description | 💳 |
+|-----|-------------|----|
+|[Falsehoods Programmers Believe About Names]( http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)| Names are hard.| Free |
+|[Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)| Time is a difficult concept. There's never enough of it.| Free |
 
 ## Browser Testing 🌎
 
