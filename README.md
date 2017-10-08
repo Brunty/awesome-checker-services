@@ -36,7 +36,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 |-----|-------------|----|
 |[Falsehoods Programmers Believe About Names]( http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)| Names are hard.| Free |
-|[Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)| Time is a difficult concept. There's never enough of it.| Free |
+|[Falsehoods Programmers Believe About Time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)| Time is a difficult concept. There's never enough of it.| Free |
 
 ## Browser Testing 🌎
 
