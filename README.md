@@ -24,10 +24,10 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://achecker.ca/checker/index.php | Checks single HTML pages for conformance with accessibility standards to ensure the content can be accessed by everyone. | Free |
+| http://www.dasilva.org.br/ | Test sites for accessibility issues (W3C/WAI  - WCAG1 and WCAG2 - and E-mag). | Free |
 | https://tenon.io/ | Test sites for accessibility issues and offer solutions for problems found. | Free and paid plans |
 | https://www.toptal.com/designers/colorfilter | Checks pages for color accessibility. | Free |
 | http://wave.webaim.org/ | Gives a detailed report about markup and accessibility concerns including ARIA roles. Provides solutions for problems found. | Free |
-| http://www.dasilva.org.br/ | Test sites for accessibility issues (W3C/WAI  - WCAG1 and WCAG2 - and E-mag). | Free |
 
 ## Browser Testing 🌎
 
