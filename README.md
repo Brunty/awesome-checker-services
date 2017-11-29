@@ -42,6 +42,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
+| https://www.unlocktheinbox.com/dnstools/mx/ | Checks DNS, WHOIS, Blacklists, and more | Free, Paid Plans |
 | http://bgp.he.net | Check IPs, networks, whois, ASNs, prefixes and more. | Free |
 | https://www.digwebinterface.com/ | Extensive web interface to dig for doing online DNS / nameserver query. | Free and donations welcome |
 | http://dnscheck.pingdom.com/ | Enter a domain name to check if its DNS servers are configured correctly. | Free |
@@ -74,6 +75,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
+| https://www.unlocktheinbox.com/mail-tester/ | Email Authentication and Configuration Tester | Free, Paid Plans |
 | https://email-checker.net | Check emails addresses and lists of email addresses for existence. | Free, paid premium plans |
 | https://hunter.io/email-verifier | Test the existence of up to 100 email addresses. | Free, paid plans |
 | https://www.mail-tester.com/ | Test the Spammyness of your Emails | Free |
@@ -86,6 +88,8 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
+| https://www.unlocktheinbox.com/services/inboxtester/| Email Inbox Tester - Check over 20+ destinations |Paid Plans |
+
 | https://www.campaignmonitor.com | Preview emails in over 25 different email clients with the inbox preview feature. | Free trial, paid plans |
 | https://www.emailonacid.com | Test emails in over 70 email clients, apps and on different platforms. | Free trial, paid plans |
 | http://www.emailreach.com | Check how the emails render in different clients and on different platforms with the EmailView and MobileView features. | Free trial, paid plans |
@@ -151,6 +155,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://validator.w3.org/unicorn/ | Checks for proper HTML and CSS markup as well as broken links. | Free |
+| https://www.zerobounce.com/ | Checks to see if the an email address is validate (Syntax + SMTP). | Free, Paid plans |
 
 ## Website Performance 🚀
 
