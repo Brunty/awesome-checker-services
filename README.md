@@ -60,6 +60,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://toolbox.googleapps.com/apps/checkmx | Check the MX records of a domain. | Free |
 | https://tools.keycdn.com | Check for http/2 support and find network related issues. | Free |
 | https://www.ultratools.com | Big collection of useful network tools. | Free |
+| https://www.unlocktheinbox.com/dnstools/mx/ | Checks DNS, WHOIS, Blacklists, and more | Free, Paid Plans |
 | http://www.viewdns.info/ | View DNS, IP, MX information. | Free and paid plans |
 | https://www.whatsmydns.net/ | Global DNS propagation checker. | Free |
 
@@ -77,7 +78,10 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://email-checker.net | Check emails addresses and lists of email addresses for existence. | Free, paid premium plans |
 | https://hunter.io/email-verifier | Test the existence of up to 100 email addresses. | Free, paid plans |
 | https://www.mail-tester.com/ | Test the Spammyness of your Emails | Free |
-| https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email blacklists. | Free |
+| https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email 
+| https://www.unlocktheinbox.com/mail-tester/ | Email Authentication and Configuration Tester | Free, Paid Plans |
+
+blacklists. | Free |
 | http://verify-email.org | Verify if an email address and the mailbox behind it exists. | Free, paid plans |
 | http://www.verifyemailaddress.org | Another email address checker. | Free, paid bulk plan |
 | https://tools.verifyemailaddress.io | Test if an email address exists. Also provides an API for developers. | Free, paid API |
@@ -86,6 +90,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
+| https://www.unlocktheinbox.com/services/inboxtester/| Email Inbox Tester - Check over 20+ destinations |Paid Plans |
 | https://www.campaignmonitor.com | Preview emails in over 25 different email clients with the inbox preview feature. | Free trial, paid plans |
 | https://www.emailonacid.com | Test emails in over 70 email clients, apps and on different platforms. | Free trial, paid plans |
 | http://www.emailreach.com | Check how the emails render in different clients and on different platforms with the EmailView and MobileView features. | Free trial, paid plans |
@@ -151,6 +156,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://validator.w3.org/unicorn/ | Checks for proper HTML and CSS markup as well as broken links. | Free |
+| https://www.zerobounce.com/ | Checks to see if the email address is valid. | Free, Paid plans |
 
 ## Website Performance 🚀
 
