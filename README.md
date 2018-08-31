@@ -17,7 +17,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 * [URL Analysis](#url-analysis-) 🌐
 * [Validation](#validation-) 👌
 * [Website Performance](#website-performance-) 🚀
-* [Contributing](#contributing)
+* [Contributing](#contributing) ✍️
 
 ## Accessibility ♿️
 
@@ -171,7 +171,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://www.webpagetest.org | Website performance test tools with many options. | Free |
 | http://yellowlab.tools/ | Online test to help speeding up heavy web pages | Free |
 
-## Contributing
+## Contributing ✍️
 
 This started as a small personal project.
 
