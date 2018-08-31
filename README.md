@@ -162,7 +162,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://checkgzipcompression.com/ | Check if GZIP compression on your web server is enabled | Free |
 | https://developers.google.com/speed/pagespeed/insights/ | PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster. | Free |
 | https://gtmetrix.com/ | GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. | Free and paid plans |
-| http://www.monitis.com/pageload | Simple page load test from 3 contintents. | Free |
+| http://www.monitis.com/pageload | Simple page load test from 3 continents. | Free |
 | https://pageweight.imgix.com/ | See how images affect your page speed | Free |
 | https://testmysite.withgoogle.com | Checks websites for performance issues and provides reports. | Free |
 | https://toolbox.googleapps.com/apps/har_analyzer | Analyse the performance with a HAR file. | Free |
