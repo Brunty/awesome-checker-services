@@ -78,11 +78,8 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://email-checker.net | Check emails addresses and lists of email addresses for existence. | Free, paid premium plans |
 | https://hunter.io/email-verifier | Test the existence of up to 100 email addresses. | Free, paid plans |
 | https://www.mail-tester.com/ | Test the Spammyness of your Emails | Free |
-| https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email 
-| https://www.unlocktheinbox.com/mail-tester/ | Email Authentication and Configuration Tester | Free, Paid Plans |
-
-blacklists. | Free |
-| http://verify-email.org | Verify if an email address and the mailbox behind it exists. | Free, paid plans |
+| https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email | Free, paid plans
+| https://www.unlocktheinbox.com/mail-tester/ | Email Authentication and Configuration Tester | Free, Paid Plans | http://verify-email.org | Verify if an email address and the mailbox behind it exists. | Free, paid plans |
 | http://www.verifyemailaddress.org | Another email address checker. | Free, paid bulk plan |
 | https://tools.verifyemailaddress.io | Test if an email address exists. Also provides an API for developers. | Free, paid API |
 
