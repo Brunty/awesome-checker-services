@@ -14,6 +14,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 * [Security](#security-) 🔒
 * [SEO](#seo-) 📈
 * [Technology Used](#technology-used-) 🖥
+* [Uptime Monitoring](#uptime-monitoring-) 📉
 * [URL Analysis](#url-analysis-) 🌐
 * [Validation](#validation-) 👌
 * [Website Performance](#website-performance-) 🚀
@@ -141,6 +142,16 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://builtwith.com/ | Find out what websites are Built With | Free and paid plans |
+
+
+## Uptime Monitoring 📉
+
+| URL | Description | 💳 |
+| --- | ----------- | -- |
+| https://uptimerobot.com/ | 50 monitors, 5 min intervals, 2 months of logs free | Free and paid plans |
+| https://www.freshworks.com/website-monitoring/ | 50 monitors, 1 min intervals, 5 public status pages free | Free and paid plans |
+| https://www.statuscake.com/ | 10 monitors, 5 min intervals, branded public reporting free | Free and paid plans |
+
 
 ## URL Analysis 🌐
 
