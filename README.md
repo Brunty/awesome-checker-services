@@ -107,6 +107,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
+| https://www.checkbot.io/ | Browser extension that checks multiple pages at once for web security best practices. Finds HTTPS mixed content issues, insecure password forms and more. | Free and paid plans |
 | https://crt.sh | Get an overview and information of assigned TLS certificates. | Free |
 | https://csp-evaluator.withgoogle.com | Validate and check the CSP for weaknesses and security issues. | Free |
 | https://hackertarget.com | This service provides multiple tools to check websites for vulnerabilities. | Free and paid plans |
@@ -129,6 +130,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
+| https://www.checkbot.io/ | Browser extension that checks multiple pages at once for SEO best practices. Finds duplicate content, broken links, unfriendly URL names and more. | Free and paid plans |
 | https://insites.com/ | Test your websites for everything. Check spelling, broken links, SEO, accessibility and more | Paid |
 | http://nibbler.silktide.com/ | Nibbler is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology. | Free and paid plans |
 | https://pro.letsvalidate.com/ | LetsValidate is a free tool to analyze websites to find weaknesses related to competition and make a suggestions to improve your website rankings. It also has a module for analysis of technologies used on the website. | Free |
@@ -171,6 +173,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://checkgzipcompression.com/ | Check if GZIP compression on your web server is enabled | Free |
+| https://www.checkbot.io/ | Browser extension that checks multiple pages at once for performance best practices. Finds unminified resources, redirect chains, render-blocking JavaScript and more. | Free and paid plans |
 | https://developers.google.com/speed/pagespeed/insights/ | PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster. | Free |
 | https://gtmetrix.com/ | GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. | Free and paid plans |
 | http://www.monitis.com/pageload | Simple page load test from 3 continents. | Free |
