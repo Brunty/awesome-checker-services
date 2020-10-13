@@ -113,7 +113,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://csp-evaluator.withgoogle.com | Validate and check the CSP for weaknesses and security issues. | Free |
 | https://hackertarget.com | This service provides multiple tools to check websites for vulnerabilities. | Free and paid plans |
 | https://www.hardenize.com/ | Harden your server's security | Free |
-| https://hstspreload.org/ | Check if a domain is on the HSTS preload list in browsers and submit them to add the to the list. | Free |
+| https://hstspreload.org/ | Check if a domain is on the HSTS preload list in browsers and submit them to the list. | Free |
 | https://www.htbridge.com/ssl/ | Test SSL/TLS implementation of any service on any port for compliance with PCI DSS requirements, HIPAA guidance and NIST guidelines. | Free |
 | https://httpschecker.net/ | Track down HTTPS mixed content issues. | Free and paid plans |
 | http://www.isithacked.com | Check if there are any signs that a website is hacked. | Free |
