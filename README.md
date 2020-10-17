@@ -40,15 +40,14 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://saucelabs.com | Test apps and websites in many browsers. Can be integrated in CI workflows. | Free trial, free for open source projects, paid |
 | https://testingbot.com | Test apps and websites in many browsers. Can be integrated in CI workflows. | Free trial, free for open source projects, paid |
 
-## Cron Jobs 🌎
+## Cron Jobs ⚡
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
-| https://healthchecks.io/ | Simple and Effective Cron Job Monitoring. | Free |
-| https://cronless.com/ | Online Cron Job Replacement and Monitoring Service. | Free |
 | https://cronhub.io/ | Painless cron job scheduler & monitoring service. | Paid |
+| https://cronless.com/ | Online Cron Job Replacement and Monitoring Service. | Free |
 | https://deadmanssnitch.com/ | Get More Out of Your Cron Jobs. | Paid |
-
+| https://healthchecks.io/ | Simple and Effective Cron Job Monitoring. | Free |
 
 ## DNS 🌐
 
