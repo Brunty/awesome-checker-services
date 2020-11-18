@@ -160,10 +160,11 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
-| https://uptimerobot.com/ | 50 monitors, 5 min intervals, 2 months of logs free | Free and paid plans |
 | https://www.freshworks.com/website-monitoring/ | 50 monitors, 1 min intervals, 5 public status pages free | Free and paid plans |
-| https://www.statuscake.com/ | 10 monitors, 5 min intervals, branded public reporting free | Free and paid plans |
+| https://tryhexadecimal.com | No-nonsense website monitoring and status page service | Paid |
 | https://ohdear.app/ | 2 sites, 5 euro, uptime,  certificate monitoring, mixed content scanning and more | Paid only |
+| https://www.statuscake.com/ | 10 monitors, 5 min intervals, branded public reporting free | Free and paid plans |
+| https://uptimerobot.com/ | 50 monitors, 5 min intervals, 2 months of logs free | Free and paid plans |
 
 
 ## URL Analysis 🌐
