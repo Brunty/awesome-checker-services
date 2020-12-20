@@ -6,7 +6,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 * [Accessibility](#accessibility-️) ♿️
 * [Browser Testing](#browser-testing-) 🌎
-* [Cron Jobs](#cron-)⚡
+* [Cron Jobs](#cron-jobs-)⚡
 * [DNS](#dns-) 🌐
 * [Load Testing](#load-testing-) 🔥
 * [Mail Configuration](#mail-configuration-️) ✉️
