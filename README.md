@@ -67,6 +67,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://ipv6-test.com/validate.php | Test if the server supports IPv6. | Free |
 | https://www.ipvoid.com | Multiple IP address tools. | Free |
 | https://mxtoolbox.com/SuperTool.aspx | Big collection of useful network tools. | Free |
+| https://simpledns.plus/lookup-dg | Trace a zone from the root, to debug delegation and whois| Free|
 | https://www.tcpiputils.com/ | Reverse/history tools for DNS, IP, MX. | Free and paid plans |
 | https://toolbox.googleapps.com/apps/dig | Easy to use DNS dig tool. | Free |
 | https://toolbox.googleapps.com/apps/checkmx | Check the MX records of a domain. | Free |
@@ -75,7 +76,6 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://www.unlocktheinbox.com/dnstools/mx/ | Checks DNS, WHOIS, Blacklists, and more. | Free, Paid Plans |
 | https://www.viewdns.info/ | View DNS, IP, MX information. | Free and paid plans |
 | https://www.nslookup.io/ | Global DNS propagation checker. | Free |
-| https://simpledns.plus/lookup-dg | Trace a zone from the root, to debug delegation and whois| Free|
 
 ## Load Testing 🔥
 
