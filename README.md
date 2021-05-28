@@ -75,6 +75,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://www.unlocktheinbox.com/dnstools/mx/ | Checks DNS, WHOIS, Blacklists, and more. | Free, Paid Plans |
 | https://www.viewdns.info/ | View DNS, IP, MX information. | Free and paid plans |
 | https://www.nslookup.io/ | Global DNS propagation checker. | Free |
+| https://simpledns.plus/lookup-dg | Trace a zone from the root, to debug delegation and whois| Free|
 
 ## Load Testing 🔥
 
