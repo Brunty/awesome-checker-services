@@ -38,6 +38,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | http://browsershots.org | Test websites on many browser, platforms and devices. | Free |
 | https://www.browserstack.com/ | Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. | Paid |
 | https://www.headspin.io/ | Test your website on thousands of real browsers, mobile device operating systems. | Free trial and paid plans |
+| https://testgrid.io | TestOS brings No-code/Low-code test case authoring and management, Remotely Accessible Infrastructure (browser and device cloud), DevSecOps, and Robotic Test Automation capabilities.. Can be integrated in CI workflows. | Free trial, paid |
 | https://www.lambdatest.com/ | Test your website in real browsers on multiple devices. | Free and paid plans |
 | https://saucelabs.com | Test apps and websites in many browsers. Can be integrated in CI workflows. | Free trial, free for open source projects, paid |
 | https://testingbot.com | Test apps and websites in many browsers. Can be integrated in CI workflows. | Free trial, free for open source projects, paid |
@@ -122,7 +123,8 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://www.checkbot.io/ | Browser extension that checks multiple pages at once for web security best practices. Finds HTTPS mixed content issues, insecure password forms and more. | Free and paid plans |
-| https://crt.sh | Get an overview and information of assigned TLS certificates. | Free |
+| https://crt.sh | Find The Real Vulnerabilities In The Development Phase Automatically.| Free & Paid |
+| https://testgrio.io | Get an overview and information of assigned TLS certificates. | Free |
 | https://csp-evaluator.withgoogle.com | Validate and check the CSP for weaknesses and security issues. | Free |
 | https://hackertarget.com | This service provides multiple tools to check websites for vulnerabilities. | Free and paid plans |
 | https://www.hardenize.com/ | Harden your server's security. | Free |
