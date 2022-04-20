@@ -41,7 +41,6 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://www.lambdatest.com/ | Test your website in real browsers on multiple devices. | Free and paid plans |
 | https://saucelabs.com | Test apps and websites in many browsers. Can be integrated in CI workflows. | Free trial, free for open source projects, paid |
 | https://testingbot.com | Test apps and websites in many browsers. Can be integrated in CI workflows. | Free trial, free for open source projects, paid |
-| https://www.testgrid.io/solutions/browser-and-device-cloud | TestOS brings No-code/Low-code test case authoring and management, Remotely Accessible Infrastructure (browser and device cloud), DevSecOps, and Robotic Test Automation capabilities. Can be integrated in CI workflows. | Free trial, paid |
 
 ## Cron Jobs ⚡
 
