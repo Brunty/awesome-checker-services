@@ -61,6 +61,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://dnsdumpster.com/ | Domain research tool that can discover hosts related to a domain. | Free |
 | https://dnsspy.io/ | Monitor, validate and verify your DNS configurations. | Free and paid plans |
 | https://www.dnsstuff.com/tools | Multiple DNS tools. | Free |
+| https://dnsviz.net/ | A DNS visualization tool, incuding a visual analysis of the DNSSEC authentication chain. | Free |
 | https://dnswatch.info/ | DNS Lookups & Performance Monitoring. | Free |
 | https://www.domainiq.com/tools | DNS, IP, MX tools. | Free and paid plans |
 | https://whois.domaintools.com/ | Reverse whois & IP lookup. | Free and paid plans |
@@ -76,6 +77,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://www.ultratools.com | Big collection of useful network tools. | Free |
 | https://www.unlocktheinbox.com/dnstools/mx/ | Checks DNS, WHOIS, Blacklists, and more. | Free, Paid Plans |
 | https://www.viewdns.info/ | View DNS, IP, MX information. | Free and paid plans |
+| https://zonemaster.net/ | Check, measure and validate DNS. | Free |
 | https://www.nslookup.io/ | Global DNS propagation checker. | Free |
 
 ## Load Testing 🔥
@@ -127,6 +129,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://www.hardenize.com/ | Harden your server's security. | Free |
 | https://hstspreload.org/ | Check if a domain is on the HSTS preload list in browsers and submit them to the list. | Free |
 | https://httpschecker.net/ | Track down HTTPS mixed content issues. | Free and paid plans |
+| https://internet.nl/ | Check whether your internet is up to date on Internet Standards. | Free |
 | https://www.isithacked.com | Check if there are any signs that a website is hacked. | Free |
 | https://www.magereport.com | MageReport checks if a Magento instance is outdated and if all security patches are installed. | Free |
 | https://observatory.mozilla.org/ | Observatory by Mozilla is a project designed to help developers, system administrators, and security professionals configure their sites safely and securely. | Free |
