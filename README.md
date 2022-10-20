@@ -25,7 +25,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
-| https://achecker.ca/checker/index.php | Checks single HTML pages for conformance with accessibility standards to ensure the content can be accessed by everyone. | Free |
+| https://achecks.ca/achecker | Checks single HTML pages for conformance with accessibility standards to ensure the content can be accessed by everyone. | Free |
 | http://www.dasilva.org.br/ | Test sites for accessibility issues (W3C/WAI  - WCAG1 and WCAG2 - and E-mag). | Free |
 | https://tenon.io/ | Test sites for accessibility issues and offer solutions for problems found. | Free and paid plans |
 | https://www.toptal.com/designers/colorfilter | Checks pages for color accessibility. | Free |
@@ -70,7 +70,6 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://www.ipvoid.com | Multiple IP address tools. | Free |
 | https://mxtoolbox.com/SuperTool.aspx | Big collection of useful network tools. | Free |
 | https://simpledns.plus/lookup-dg | Trace a zone from the root, to debug delegation and whois| Free|
-| https://www.tcpiputils.com/ | Reverse/history tools for DNS, IP, MX. | Free and paid plans |
 | https://toolbox.googleapps.com/apps/dig | Easy to use DNS dig tool. | Free |
 | https://toolbox.googleapps.com/apps/checkmx | Check the MX records of a domain. | Free |
 | https://tools.keycdn.com | Check for http/2 support and find network related issues. | Free |
@@ -187,7 +186,6 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://www.checkbot.io/ | Browser extension that checks multiple pages at once for performance best practices. Finds unminified resources, redirect chains, render-blocking JavaScript and more. | Free and paid plans |
 | https://developers.google.com/speed/pagespeed/insights/ | PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster. | Free |
 | https://gtmetrix.com/ | GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. | Free and paid plans |
-| http://www.monitis.com/pageload | Simple page load test from 3 continents. | Free |
 | https://pageweight.imgix.com/ | See how images affect your page speed. | Free |
 | https://testmysite.withgoogle.com | Checks websites for performance issues and provides reports. | Free |
 | https://toolbox.googleapps.com/apps/har_analyzer | Analyze the performance with a HAR file. | Free |
