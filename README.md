@@ -184,6 +184,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://www.checkbot.io/ | Browser extension that checks multiple pages at once for performance best practices. Finds unminified resources, redirect chains, render-blocking JavaScript and more. | Free and paid plans |
+| https://www.debugbear.com/test/website-speed | DebugBear is a site speed testing tool that analyzes page performance and recommends possible optimizations. | Free and paid plans |
 | https://developers.google.com/speed/pagespeed/insights/ | PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster. | Free |
 | https://gtmetrix.com/ | GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. | Free and paid plans |
 | https://pageweight.imgix.com/ | See how images affect your page speed. | Free |
