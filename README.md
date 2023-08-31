@@ -137,6 +137,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://sshcheck.com | Check the SSH configuration of servers. | Free |
 | https://www.ssllabs.com/ssltest/ | This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet. | Free |
 | https://tls.imirhil.fr/ | Test the strength of the available ciphers which can be used with HTTPS or SSH. | Free |
+| https://www.sslshopper.com/ssl-checker.html | The SSL Checker makes it easy to verify your SSL certificates by connecting to your server and displaying the results of the SSL connection. | Free |
 
 ## SEO 📈
 
