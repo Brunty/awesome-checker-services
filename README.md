@@ -27,7 +27,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | --- | ----------- | -- |
 | https://achecks.ca/achecker | Checks single HTML pages for conformance with accessibility standards to ensure the content can be accessed by everyone. | Free |
 | http://www.dasilva.org.br/ | Test sites for accessibility issues (W3C/WAI  - WCAG1 and WCAG2 - and E-mag). | Free |
-| https://excellentwebcheck.com/website-accessibility-checker | Test entire websites for accessibility issues on mobile, tablet and desktop screen sizes. | Free, Paid Plans |
+| https://excellentwebcheck.com/website-accessibility-checker | Test entire websites for accessibility issues on mobile, tablet and desktop screen sizes. | Free and paid plans |
 | https://tenon.io/ | Test sites for accessibility issues and offer solutions for problems found. | Free and paid plans |
 | https://www.toptal.com/designers/colorfilter | Checks pages for color accessibility. | Free |
 | https://wave.webaim.org/ | Gives a detailed report about markup and accessibility concerns including ARIA roles. Provides solutions for problems found. | Free |
@@ -75,7 +75,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://toolbox.googleapps.com/apps/checkmx | Check the MX records of a domain. | Free |
 | https://tools.keycdn.com | Check for http/2 support and find network related issues. | Free |
 | https://www.ultratools.com | Big collection of useful network tools. | Free |
-| https://www.unlocktheinbox.com/dnstools/mx/ | Checks DNS, WHOIS, Blacklists, and more. | Free, Paid Plans |
+| https://www.unlocktheinbox.com/dnstools/mx/ | Checks DNS, WHOIS, Blacklists, and more. | Free and paid plans |
 | https://www.viewdns.info/ | View DNS, IP, MX information. | Free and paid plans |
 | https://zonemaster.net/ | Check, measure and validate DNS. | Free |
 | https://www.nslookup.io/ | Global DNS propagation checker. | Free |
@@ -91,14 +91,14 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
-| https://email-checker.net | Check emails addresses and lists of email addresses for existence. | Free, paid premium plans |
-| https://hunter.io/email-verifier | Test the existence of up to 100 email addresses. | Free, paid plans |
+| https://email-checker.net | Check emails addresses and lists of email addresses for existence. | Free and paid plans |
+| https://hunter.io/email-verifier | Test the existence of up to 100 email addresses. | Free and paid plans |
 | https://www.mail-tester.com/ | Test the Spammyness of your Emails. | Free |
-| https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email. | Free, paid plans
-| https://www.unlocktheinbox.com/mail-tester/ | Email Authentication and Configuration Tester. | Free, Paid Plans |
-| https://verify-email.org | Verify if an email address and the mailbox behind it exists. | Free, paid plans |
-| https://www.verifyemailaddress.org | Another email address checker. | Free, paid bulk plan |
-| https://tools.verifyemailaddress.io | Test if an email address exists. Also provides an API for developers. | Free, paid API |
+| https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email. | Free and paid plans |
+| https://www.unlocktheinbox.com/mail-tester/ | Email Authentication and Configuration Tester. | Free and paid plans |
+| https://verify-email.org | Verify if an email address and the mailbox behind it exists. | Free and paid plans |
+| https://www.verifyemailaddress.org | Another email address checker. | Free and paid plans |
+| https://tools.verifyemailaddress.io | Test if an email address exists. Also provides an API for developers. | Free and paid plans |
 
 ## Mail Testing ✉️
 
@@ -116,7 +116,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://developers.google.com/web/tools/lighthouse/ | Useful for testing PWA's does mobile friendliness etc but not exclusively mobile. | Free |
-| https://excellentwebcheck.com/mobile-friendly-website-test | Test how mobile friendly an entire website is. More advanced scan than Google's Mobile Usability test. | Free, Paid Plans |
+| https://excellentwebcheck.com/mobile-friendly-website-test | Test how mobile friendly an entire website is. More advanced scan than Google's Mobile Usability test. | Free and paid plans |
 | https://search.google.com/search-console/mobile-usability | Test how easily a visitor can use your page on a mobile device. Just enter a page URL to see how your page scores. | Free |
 
 ## Security 🔒
@@ -178,7 +178,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://validator.w3.org/unicorn/ | Checks for proper HTML and CSS markup as well as broken links. | Free |
-| https://www.zerobounce.com/ | Checks to see if the email address is valid. | Free, Paid plans |
+| https://www.zerobounce.com/ | Checks to see if the email address is valid. | Free and paid plans |
 
 ## Website Performance 🚀
 
@@ -192,7 +192,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://testmysite.withgoogle.com | Checks websites for performance issues and provides reports. | Free |
 | https://toolbox.googleapps.com/apps/har_analyzer | Analyze the performance with a HAR file. | Free |
 | https://tools.pingdom.com/ | Enter a URL to test the load time of that page, analyze it and find bottlenecks. | Free and paid plans |
-| https://www.uptrends.com/tools/website-speed-test | Check the performance from 30+ free and 160+ paid checkpoints. | Free, paid plans |
+| https://www.uptrends.com/tools/website-speed-test | Check the performance from 30+ free and 160+ paid checkpoints. | Free and paid plans |
 | https://www.webpagetest.org | Website performance test tools with many options. | Free |
 | https://yellowlab.tools/ | Online test to help speeding up heavy web pages. | Free |
 
