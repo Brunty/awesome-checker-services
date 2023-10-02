@@ -27,6 +27,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | --- | ----------- | -- |
 | https://achecks.ca/achecker | Checks single HTML pages for conformance with accessibility standards to ensure the content can be accessed by everyone. | Free |
 | http://www.dasilva.org.br/ | Test sites for accessibility issues (W3C/WAI  - WCAG1 and WCAG2 - and E-mag). | Free |
+| https://excellentwebcheck.com/website-accessibility-checker | Test entire websites for accessibility issues on mobile, tablet and desktop screen sizes. | Free, Paid Plans |
 | https://tenon.io/ | Test sites for accessibility issues and offer solutions for problems found. | Free and paid plans |
 | https://www.toptal.com/designers/colorfilter | Checks pages for color accessibility. | Free |
 | https://wave.webaim.org/ | Gives a detailed report about markup and accessibility concerns including ARIA roles. Provides solutions for problems found. | Free |
@@ -115,6 +116,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://developers.google.com/web/tools/lighthouse/ | Useful for testing PWA's does mobile friendliness etc but not exclusively mobile. | Free |
+| https://excellentwebcheck.com/mobile-friendly-website-test | Test how mobile friendly an entire website is. More advanced scan than Google's Mobile Usability test. | Free, Paid Plans |
 | https://search.google.com/search-console/mobile-usability | Test how easily a visitor can use your page on a mobile device. Just enter a page URL to see how your page scores. | Free |
 
 ## Security 🔒
@@ -161,7 +163,6 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://www.freshworks.com/website-monitoring/ | 50 monitors, 1 min intervals, 5 public status pages free. | Free and paid plans |
-| https://tryhexadecimal.com | No-nonsense website monitoring and status page service. | Paid |
 | https://ohdear.app/ | 2 sites, 5 euro, uptime,  certificate monitoring, mixed content scanning and more. | Paid only |
 | https://www.statuscake.com/ | 10 monitors, 5 min intervals, branded public reporting free. | Free and paid plans |
 | https://uptimerobot.com/ | 50 monitors, 5 min intervals, 2 months of logs free. | Free and paid plans |
