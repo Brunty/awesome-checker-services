@@ -149,6 +149,8 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://nibbler.silktide.com/ | Nibbler is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology. | Free and paid plans |
 | https://search.google.com/structured-data/testing-tool/u/0/ | Evaluate your structured data (rich snippets) markup for errors or warnings. | Free |
 | https://seomator.com | SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips. | Paid |
+| https://keyword.com | Accurate keyword rank tracking software with daily updates. | Paid |
+| https://www.seobility.net/en | All-in-one SEO software including crawler, rank tracker, backlink checker, monitoring and reporting tools. | Free and paid plans |
 
 
 ## Technology Used 🖥
