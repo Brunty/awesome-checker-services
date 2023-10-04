@@ -146,8 +146,10 @@ List of links to the various checkers out there on the web for sites, domains, s
 | --- | ----------- | -- |
 | https://www.checkbot.io/ | Browser extension that checks multiple pages at once for SEO best practices. Finds duplicate content, broken links, unfriendly URL names and more. | Free and paid plans |
 | https://insites.com/ | Test your websites for everything. Check spelling, broken links, SEO, accessibility and more. | Paid |
+| https://keyword.com | Accurate keyword rank tracking software with daily updates. | Paid |
 | https://nibbler.silktide.com/ | Nibbler is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology. | Free and paid plans |
 | https://search.google.com/structured-data/testing-tool/u/0/ | Evaluate your structured data (rich snippets) markup for errors or warnings. | Free |
+| https://www.seobility.net/en | All-in-one SEO software including crawler, rank tracker, backlink checker, monitoring and reporting tools. | Free and paid plans |
 | https://seomator.com | SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips. | Paid |
 
 
