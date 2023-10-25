@@ -2,9 +2,9 @@
 
 The [README](README.md) contains the full list of all checkers.
 
-Please ensure any new sections are added alphabetically in the list.
+Please ensure any new sections are added alphabetically to the list.
 
-Within a section, please ensure new services are added alphabetically (by name / domain) in the list.
+Within a section, please ensure new services are added alphabetically (by name/domain) in the list.
 
 Please ensure you list the free / paid status of the service as one of the following:
 
@@ -23,7 +23,7 @@ We are committed to making participation in this project a harassment-free exper
 
 Examples of unacceptable behavior by participants include the use of sexual language or imagery, derogatory comments or personal attacks, trolling, public or private harassment, insults, or other unprofessional conduct.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. Project maintainers who do not follow the Code of Conduct may be removed from the project team.
+Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct. Project maintainers who do not follow the Code of Conduct may be removed from the project team.
 
 This code of conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.
 
