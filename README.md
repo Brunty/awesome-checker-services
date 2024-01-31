@@ -91,6 +91,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
+| https://sendbridge.com | Email verifier to test existence of email address. | Free and paid plans |
 | https://email-checker.net | Check emails addresses and lists of email addresses for existence. | Free and paid plans |
 | https://hunter.io/email-verifier | Test the existence of up to 100 email addresses. | Free and paid plans |
 | https://www.mail-tester.com/ | Test the Spammyness of your Emails. | Free |
